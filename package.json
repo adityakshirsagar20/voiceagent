@@ -10,6 +10,6 @@
       "next": "13.4.7",
       "react": "18.2.0",
       "react-dom": "18.2.0",
-      "@11labs/react": "^0.2.1"
+      "@11labs/convai-react": "^0.2.1"
     }
   }
